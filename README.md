@@ -13,6 +13,7 @@
 | [0007-reverse-integer](https://github.com/Aarushverma01/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aarushverma01/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aarushverma01/LeetCode/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/Aarushverma01/LeetCode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aarushverma01/LeetCode/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/Aarushverma01/LeetCode/tree/master/0204-count-primes) |
 | [0682-baseball-game](https://github.com/Aarushverma01/LeetCode/tree/master/0682-baseball-game) |
 ## Stack
 |  |
@@ -51,4 +53,24 @@
 | [0584-find-customer-referee](https://github.com/Aarushverma01/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Aarushverma01/LeetCode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aarushverma01/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aarushverma01/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aarushverma01/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aarushverma01/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aarushverma01/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aarushverma01/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

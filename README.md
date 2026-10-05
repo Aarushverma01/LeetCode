@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aarushverma01/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Aarushverma01/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Aarushverma01/LeetCode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |

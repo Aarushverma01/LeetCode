@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aarushverma01/LeetCode/tree/master/0001-two-sum) |
 | [0682-baseball-game](https://github.com/Aarushverma01/LeetCode/tree/master/0682-baseball-game) |
 ## Stack
 |  |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Aarushverma01/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Aarushverma01/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

@@ -43,4 +43,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aarushverma01/LeetCode/tree/master/0013-roman-to-integer) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Aarushverma01/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

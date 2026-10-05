@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aarushverma01/LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Aarushverma01/LeetCode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -37,4 +38,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aarushverma01/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Aarushverma01/LeetCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Aarushverma01/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
